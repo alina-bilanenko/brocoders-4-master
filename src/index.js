@@ -14,7 +14,7 @@ import { homepage } from '../package.json'
 const sagaMiddleware = createSagaMiddleware();
 
 const history = createBrowserHistory({
-  basename: 'src'
+  basename: '/'
 });
 function configureStore() {
   const store = createStore(
