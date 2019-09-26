@@ -1,0 +1,50 @@
+{
+  "name": "redux-begin",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://alina-bilanenko.github.io/bro4",
+  "dependencies": {
+    "@material-ui/core": "^4.4.1",
+    "connected-react-router": "^6.5.2",
+    "jasmine-expect": "^4.0.3",
+    "node-sass": "^4.12.0",
+    "postcss-minify-font-values": "^4.0.2",
+    "prettier": "^1.18.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "recharts": "^1.7.1",
+    "redux": "^4.0.1",
+    "redux-saga": "^1.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "babel-jest": "^24.7.1",
+    "gh-pages": "^2.1.1",
+    "jest": "^24.7.1"
+  }
+}

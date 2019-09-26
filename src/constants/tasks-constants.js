@@ -1,0 +1,6 @@
+export const ADD_TASKS = 'ADD_TASKS';
+export const DELETE_TASKS = 'DELETE_TASKS';
+export const GENERATE_TASKS = 'GENERATE_TASKS';
+export const TASK_LOCALSTORAGE = 'TASK_LOCALSTORAGE';
+export const ADD_TO_STORE = 'ADD_TO_STORE';
+export const UPDATE_SYNC_DATA = 'UPDATE_SYNC_DATA';

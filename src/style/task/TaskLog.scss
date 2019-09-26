@@ -1,0 +1,28 @@
+%text-color {
+  color: #3d60cc;
+  font-weight: 700;
+}
+.tasks-table {
+  background-color: #eaf6ff;
+  th,
+  td {
+    @extend %text-color;
+  }
+  button {
+    @extend %text-color;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+    background-color: #fff;
+  }
+}
+.info-link {
+  text-decoration: none;
+  a {
+    text-decoration: none;
+  }
+}
+.table-head {
+  th {
+    font-weight: 700;
+    opacity: 0.8;
+  }
+}

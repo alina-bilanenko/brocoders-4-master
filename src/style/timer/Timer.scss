@@ -1,0 +1,39 @@
+%text-color {
+  color: #3d60cc;
+  font-weight: 700;
+}
+.timer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  font-size: 24px;
+  @extend %text-color;
+
+  .timer-btn {
+    @extend %text-color;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    margin-bottom: 20px;
+  }
+
+  .timer-text-field {
+    margin-top: 20px;
+    input::placeholder {
+      text-align: center;
+      @extend %text-color;
+      opacity: 1;
+    }
+  }
+
+  .timer-avatar {
+    margin: 20px 0 20px 0;
+    @extend %text-color;
+    height: 250px;
+    width: 250px;
+    background-color: #fff;
+    box-shadow: 0 3px 8px 2px rgba(0, 0, 0, 0.3);
+    font-weight: 500;
+    font-size: 2.5rem;
+    font-family: 'Yantramanav', sans-serif;
+  }
+}
