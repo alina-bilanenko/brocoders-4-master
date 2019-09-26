@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/brocoders-4-master/static/js/main.a2e1075e.chunk.js",
-    "main.js.map": "/brocoders-4-master/static/js/main.a2e1075e.chunk.js.map",
-    "runtime~main.js": "/brocoders-4-master/static/js/runtime~main.852b3932.js",
-    "runtime~main.js.map": "/brocoders-4-master/static/js/runtime~main.852b3932.js.map",
-    "static/js/2.9e40e03f.chunk.js": "/brocoders-4-master/static/js/2.9e40e03f.chunk.js",
-    "static/js/2.9e40e03f.chunk.js.map": "/brocoders-4-master/static/js/2.9e40e03f.chunk.js.map",
-    "index.html": "/brocoders-4-master/index.html",
-    "precache-manifest.cc439ebc4a24e45aabb76a0c56fb3735.js": "/brocoders-4-master/precache-manifest.cc439ebc4a24e45aabb76a0c56fb3735.js",
-    "service-worker.js": "/brocoders-4-master/service-worker.js"
+    "main.js": "https://alina-bilanenko.github.io/brocoders-4-master/static/js/main.f11d9931.chunk.js",
+    "main.js.map": "https://alina-bilanenko.github.io/brocoders-4-master/static/js/main.f11d9931.chunk.js.map",
+    "runtime~main.js": "https://alina-bilanenko.github.io/brocoders-4-master/static/js/runtime~main.f3556cc1.js",
+    "runtime~main.js.map": "https://alina-bilanenko.github.io/brocoders-4-master/static/js/runtime~main.f3556cc1.js.map",
+    "static/js/2.9e40e03f.chunk.js": "https://alina-bilanenko.github.io/brocoders-4-master/static/js/2.9e40e03f.chunk.js",
+    "static/js/2.9e40e03f.chunk.js.map": "https://alina-bilanenko.github.io/brocoders-4-master/static/js/2.9e40e03f.chunk.js.map",
+    "index.html": "https://alina-bilanenko.github.io/brocoders-4-master/index.html",
+    "precache-manifest.a99f36e855acbb69aed7d3e8d7c1454b.js": "https://alina-bilanenko.github.io/brocoders-4-master/precache-manifest.a99f36e855acbb69aed7d3e8d7c1454b.js",
+    "service-worker.js": "https://alina-bilanenko.github.io/brocoders-4-master/service-worker.js"
   }
 }
