@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/brocoders-4-master/static/js/main.e221b5fe.chunk.js",
-    "main.js.map": "/brocoders-4-master/static/js/main.e221b5fe.chunk.js.map",
+    "main.js": "/brocoders-4-master/static/js/main.1ebff515.chunk.js",
+    "main.js.map": "/brocoders-4-master/static/js/main.1ebff515.chunk.js.map",
     "runtime~main.js": "/brocoders-4-master/static/js/runtime~main.852b3932.js",
     "runtime~main.js.map": "/brocoders-4-master/static/js/runtime~main.852b3932.js.map",
-    "static/js/2.05f41b1c.chunk.js": "/brocoders-4-master/static/js/2.05f41b1c.chunk.js",
-    "static/js/2.05f41b1c.chunk.js.map": "/brocoders-4-master/static/js/2.05f41b1c.chunk.js.map",
+    "static/js/2.7aad46c6.chunk.js": "/brocoders-4-master/static/js/2.7aad46c6.chunk.js",
+    "static/js/2.7aad46c6.chunk.js.map": "/brocoders-4-master/static/js/2.7aad46c6.chunk.js.map",
     "index.html": "/brocoders-4-master/index.html",
-    "precache-manifest.6e96b95bddfa842d15e6af950ae0792a.js": "/brocoders-4-master/precache-manifest.6e96b95bddfa842d15e6af950ae0792a.js",
+    "precache-manifest.40578460f19dfb120fd7f8704c7056f7.js": "/brocoders-4-master/precache-manifest.40578460f19dfb120fd7f8704c7056f7.js",
     "service-worker.js": "/brocoders-4-master/service-worker.js"
   }
 }
