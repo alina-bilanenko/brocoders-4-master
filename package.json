@@ -2,7 +2,7 @@
   "name": "redux-begin",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alina-bilanenko.github.io/brocoders-4-master",
+  "homepage": "https://alina-bilanenko.github.io/brocoders-4-master/index.html",
   "dependencies": {
     "@material-ui/core": "^4.4.1",
     "connected-react-router": "^6.5.2",
