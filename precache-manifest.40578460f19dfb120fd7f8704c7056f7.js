@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15847e9421855f7d660b91aae932da92",
+    "revision": "a38987d08c18e05c51aea9402223e210",
     "url": "/brocoders-4-master/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brocoders-4-master/static/js/2.7aad46c6.chunk.js"
   },
   {
-    "revision": "d24129cb23d100fdd437",
-    "url": "/brocoders-4-master/static/js/main.cdb5f3a3.chunk.js"
+    "revision": "0a8c01c5deb13448ee00",
+    "url": "/brocoders-4-master/static/js/main.1ebff515.chunk.js"
   },
   {
     "revision": "d9ed40da63cdac3f6310",
