@@ -12,10 +12,13 @@ import { createRootReducer } from "reducers/reducers";
 import { homepage } from '../package.json'
 
 const sagaMiddleware = createSagaMiddleware();
+const historyStage = {};
 
-const history = createBrowserHistory({
-  basename: '/brocoders-4-master'
-});
+if (process.env.NODE_ENV === 'production') {
+  historyStage.basename = new URL(homepage).pathname + '/'
+}
+const history = createBrowserHistory(historyStage);
+
 function configureStore() {
   const store = createStore(
     createRootReducer(history),
