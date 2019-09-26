@@ -15,7 +15,7 @@ const sagaMiddleware = createSagaMiddleware();
 const historyStage = {};
 
 if (process.env.NODE_ENV === 'production') {
-  historyStage.basename = new URL(homepage).pathname + '/'
+  historyStage.basename = '/'
 }
 const history = createBrowserHistory(historyStage);
 
